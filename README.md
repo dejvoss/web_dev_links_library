@@ -1,15 +1,14 @@
 # My first webpage
 
-Welcome in my first webpage.
+This is the very first website done during studying the software web development in Code Institute.
 
 ## What project is?
 
-That webpage is maked during course Ful Stack We Developer in coding institute.
+It is a simple web page with 3 pages, menu, images and links
 
 ### What is about it?
 
-Web page content 3 sites with links to description in wikipedia
-different type of languages and tools used for creating webpages.
+The content of page are links to the main platform/languages which i will going to learn during my study.
 
 #### What did i learn and use in this website?
 
@@ -17,18 +16,14 @@ I learn the html structure and basic CSS.
 I use the nav attribute to create a links.
 I did learn how to use CSS to make simple, but nice menu.
 I learn how to use CSS to put pictures in 3 columns. It is look like small library
-with pictures of languages logos, which are the links to the wikipedia description
+with pictures of languages/services logos, which are the links to the wikipedia description
 of them.
 
 ##### What is my impressions during making this?
 
-I was really enjoying during make this website. I learn thinks,
-which make my website really nice. I never thought that it is so easy to make nice
-look for the website.
-Then i learn also how to deploy the site to the git and push in to git hub to
-give acces and visibility of this website for the world.
+I was really enjoying during make this website. I learn small thinks,
+which can make website look nice. I never thought that it is so easy to make simple webpage.
+The big and usefull part during those lessons were about git. I know how to stage, commit and push changes to the repository locally, but also remote one.
+Lessons gives an good induction to the version control
+In the end i have learn how to deploy the site using github pages.
 
-###### Others
-
-I just use the learned stuff to make web for my friend and i was wondering
-to show it him online and then next lesson was the git and github. Awesome!
