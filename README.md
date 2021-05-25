@@ -27,3 +27,4 @@ The big and usefull part during those lessons were about git. I know how to stag
 Lessons gives an good induction to the version control
 In the end i have learn how to deploy the site using github pages.
 
+![mockups of the first webpage](images/1st_mockups.png)
