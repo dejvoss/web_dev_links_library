@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Oswald', sans-serif;
+    font-family: Verdana,sans-serif;
 }
 nav ul {
     list-style: none;
@@ -31,11 +31,10 @@ nav a:hover {
 
 header {
     margin-top: 2%;
-    margin-bottom: 2%;
+    margin-bottom: 3%;
 }
 header p {
     text-align: center;
-    font-size: 1.5em;
 }
 
 article {
@@ -59,6 +58,7 @@ article {
 
 .links-list {
     list-style: none;
+    padding-left: 0;
 }
 
 .links-list li {
@@ -67,7 +67,9 @@ article {
 
 h1, h2, h3 {
     text-align: center;
+    font-family: "Segoe UI",Arial,sans-serif;
 }
 h2 {
     text-transform: uppercase;
+    
 }
