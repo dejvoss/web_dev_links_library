@@ -52,17 +52,16 @@ header p {
 /* Section */
 
 
-article {
-    clear: both;
-    background-color: #ffffff;
-
+section p {
+    text-align: center;
+    margin-bottom: 3em;
 }
 .card {
     display: inline-block;
     width: 20%;
     margin-left: 10%;
     margin-bottom: 35px;
-    vertical-align: middle;
+    vertical-align: top;
     text-align: center;
 
 }
@@ -74,12 +73,26 @@ article {
 }
 
 .links-list {
-    list-style: none;
+    list-style: inside;
     padding-left: 0;
 }
 
 .links-list li {
-    margin-bottom: 10px;
+    margin-bottom: 25px;
+}
+
+.links-list li a {
+    text-decoration: none;
+    color: #000;
+}
+
+.links-list li a:hover {
+    text-decoration: underline;
+    color: #000;
+}
+
+.links-list li a:visited {
+    color: rgb(3, 97, 16);
 }
 
 /* Section */
