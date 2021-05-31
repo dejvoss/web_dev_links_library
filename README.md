@@ -7,6 +7,8 @@ I decided to make this usefuly.
 
 To do that i rebuild a bit my very first page and create the "Software Web Development knowdledge library"
 
+![page mockups](images/2nd_mockups.png)
+
 ## What project is?
 
 Project is a simple website split by 3 webpages written only in HTML and CSS. 
@@ -18,13 +20,15 @@ This website is about making old projects new, not wasting the space in the netw
 it is about learning software web development.
 Main idea is to have all good knowledge in one place - at least links to the pages with knowledge - I am not going to rewrite django documentation ;)
 
-## What did i learn and use in this website?
+## What did i learn new when refactor this website?
 
-
+I learn how to have done quick mockups from url - i place link in front end page under ux design.
+I learn that there is a lot of tools to generate color scheme.
+I also learn that is hard to not use the knowledge when refactor the website. It is hard actually to leave web as it was done on the first place, but i tried and only one think which i use and which i didn't know when i did this page first time was the responsivness and media selector in css.
 
 ## What is my impressions during making this?
 
-ssda
+Some colours, different size of images and page can look better.
 
 
 ## Others
