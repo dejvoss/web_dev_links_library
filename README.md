@@ -6,7 +6,7 @@ and also i do not like to have unusefull projects on my github
 I decided to make this usefuly.
 
 To do that i rebuild a bit my very first page and create the "Software Web Development knowdledge library"
-The live website is deployed on github pages - you can see it here[https://dejvoss.github.io/cs_coding_school/]
+The live website is deployed on github pages - you can see it [here](https://dejvoss.github.io/cs_coding_school/)
 
 ![page mockups](images/2nd_mockups.png)
 
