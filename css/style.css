@@ -8,10 +8,7 @@ h1, h2, h3 {
     text-align: center;
     font-family: "Segoe UI",Arial,sans-serif;
 }
-h2 {
-    text-transform: uppercase;
-    
-}
+
 /* Navigation */
 nav ul {
     list-style: none;
@@ -41,8 +38,8 @@ nav a:hover {
 /* Navigation */
 /* Header */
 header {
-    margin-top: 2%;
-    margin-bottom: 3%;
+    padding: 3%;
+    background-color: aqua;
 }
 header p {
     text-align: center;
@@ -50,11 +47,16 @@ header p {
 /* Header */
 
 /* Section */
-
+h2 {
+    text-transform: uppercase;
+    margin-top: 2em;
+    margin-bottom: 5px;;
+}
 
 section p {
     text-align: center;
-    margin-bottom: 3em;
+    margin-bottom: 5em;
+    margin-top: 0;
 }
 .card {
     display: inline-block;
@@ -117,3 +119,17 @@ footer span {
     margin-right: 25px;
 }
 
+/* media */
+
+@media (max-width:720px) {
+    .card {
+        width: 35%;
+    }
+}
+
+@media (max-width:520px) {
+    .card {
+        width: 95%;
+        margin-left:5%;
+    }
+}
