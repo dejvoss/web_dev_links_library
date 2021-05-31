@@ -12,7 +12,7 @@ h1, h2, h3 {
 /* Navigation */
 nav ul {
     list-style: none;
-    background-color: #4a4a4f;
+    background-color: #CEE5F2;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -26,20 +26,20 @@ nav li {
 }
 nav a {
     text-decoration: none;
-    color: #ffffff;
+    color: #4A4A4F;
     display: block;
     padding-left: 20px;
     padding-right: 20px;
 }
 nav a:hover {
     color: #4a4a4f;
-    background-color: #ffffff;
+    background-color: #7C98B3;
 }
 /* Navigation */
 /* Header */
 header {
-    padding: 3%;
-    background-color: aqua;
+    padding: 2%;
+    background-color: #CEE5F2;
 }
 header p {
     text-align: center;
@@ -70,10 +70,15 @@ section p {
 
 .card-img{
     text-align: center;
+    margin-bottom: 3rem;
 }
-.card-img img {
+img {
     max-width: 200px;
 
+}
+
+.my100 {
+    max-width: 100%;
 }
 
 .links-list {
@@ -87,16 +92,15 @@ section p {
 
 .links-list li a {
     text-decoration: none;
-    color: #000;
+    color: #F46036;
 }
 
 .links-list li a:hover {
     text-decoration: underline;
-    color: #000;
 }
 
 .links-list li a:visited {
-    color: rgb(3, 97, 16);
+    color: #4a4a4f;
 }
 
 /* Section */
